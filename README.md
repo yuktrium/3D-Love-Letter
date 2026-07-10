@@ -4,7 +4,7 @@ A beautiful and interactive **3D Love Letter** built using **HTML, CSS, and Java
 
 ## 🚀 Live Demo
 
-https://yuktrium.github.io/3d-love-letter/
+https://yuktrium.github.io/3D-Love-Letter/
 
 ## ✨ Features
 
